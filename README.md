@@ -11,15 +11,14 @@ pipeline_tag: text-to-speech
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/model.pth">Download model.pth(hugging face)</a></h3>
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/config.json">Download config.json(hugging face)</a></h3>
 <br>
+<h3>
+   Sample Voice
+</h3>
 <a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/%E7%8E%AF%E5%BD%A9%E7%BE%BDsamplevoice.wav">
 Sample voice DL link 环彩羽 (Tamaki Iroha) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
 
 </a>
    
-    <audio controls>
-        <source src="" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
 魔法纪录 魔法少女小圆外传<br>
 Magia Record 　<br>
 魔法少女まどかマギカ　マギアレコード<br>
