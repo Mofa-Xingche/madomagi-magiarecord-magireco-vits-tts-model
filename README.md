@@ -3,7 +3,7 @@
 魔法纪录 魔法少女小圆外传　<br>
 Magia Record 　<br>
 魔法少女まどかマギカ　マギアレコード 文章转语音人工智能模型（VITS）<br>
-<h3>
+<h4>
    Please refrain from producing content that may infringe upon the rights or cause harm to individuals or organizations.<br>
 请勿制作可能对他人造成侵害的内容。<br>
 他人を不快にさせる可能性のあるコンテンツを作成しないでください。<br>
@@ -11,7 +11,7 @@ Magia Record 　<br>
 This is an Apache 2.0 license, which can only be used for non-commercial purposes.<br>
 这是一个Apache 2.0许可证，仅可用于非商业用途。<br>
 これは、非営利目的のみを対象とした Apache 2.0 ライセンスです。<br>
-</h3>
+</h4>
 ---
 license: apache-2.0
 language:
