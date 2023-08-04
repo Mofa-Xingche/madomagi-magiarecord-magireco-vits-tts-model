@@ -6,6 +6,8 @@ language:
 - en
 pipeline_tag: text-to-speech
 ---
+<h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/model.pth">Download model.pth(hugging face)</a></h3>
+<h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/config.json">Download config.json(hugging face)</a></h3>
 魔法纪录 魔法少女小圆外传　Magia Record 　魔法少女まどかマギカ　マギアレコード<br>
 文章转语音人工智能模型（VITS）能够将文本转换为声音进行朗读。<br>
 Text-to-Speech Artificial Intelligence Model (VITS)　<br>
