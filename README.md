@@ -29,7 +29,7 @@ Magia Record 　<br>
 <br>
 <br>
 文章转语音人工智能模型（VITS）能够将文本转换为声音进行朗读。<br>
-Text-to-Speech Artificial Intelligence Model (VITS)　<br><br>
+Text-to-Speech Artificial Intelligence Model (VITS)　<br>
 記事音声合成人工知能モデル (VITS) は、テキストを音声に変換して読み上げることができます。<br>
 
 
