@@ -35,7 +35,7 @@ Sample voice DL link 佐仓杏子 (Sakura Kyoko) Sample Voice text(まさに、�
 <br>
 <a href="https://github.com/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/raw/main/Sample%20voice%20DL%20link%20%E4%B8%83%E6%B5%B7%E5%85%AB%E5%8D%83%E4%BB%A3%20(Sakura%20Kyoko)%20Sample%20Voice%20text(%E3%81%BE%E3%81%95%E3%81%AB%E3%80%81%E5%A4%A2%E3%81%8C%E4%BA%BA%E7%94%9F%E3%81%9D%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%81%E4%BA%BA%E7%94%9F%E3%81%AF%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A4%A2%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%A7%E6%B8%AC%E3%82%8C%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86%E3%80%82).wav">
 Sample voice DL link 七海八千代 (Nanami Yachiyo) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
-
+</a>
 
 
 
