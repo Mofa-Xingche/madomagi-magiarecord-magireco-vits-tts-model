@@ -41,7 +41,10 @@ Sample voice DL link 七海八千代 (Nanami Yachiyo) Sample Voice text(まさ�
 Sample voice DL link 八云御魂(Yakumo Mitama) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
 </a>
 
-
+<br><br>
+・(Emotional！)<a href="https://github.com/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/raw/main/%E5%85%AB%E4%BA%91%E5%BE%A1%E9%AD%82(Yakumo%20Mitama)%20Sample%20Voice%20text(%E3%82%84%E3%82%81%E3%81%A6%E3%82%88%EF%BC%81%E3%81%8A%E9%A1%98%E3%81%84%E3%81%A0%E3%81%8B%E3%82%89%EF%BC%81%E3%81%9D%E3%82%8C%E4%BB%A5%E4%B8%8A%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%84%E3%81%A7%EF%BC%81).wav">
+Sample voice DL link 八云御魂(Yakumo Mitama) Sample Voice text(やめてよ！お願いだから！それ以上わたしのプリンを食べないで！)
+</a>
 
 
 
