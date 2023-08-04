@@ -1,8 +1,17 @@
-<h2>23 Character text to speech model</h2>
+<h2>日本语23 Character text to speech model</h2>
 # madomagi-magiarecord-magireco-vits-tts-model<br>
 魔法纪录 魔法少女小圆外传　<br>
 Magia Record 　<br>
 魔法少女まどかマギカ　マギアレコード 文章转语音人工智能模型（VITS）<br>
+<h3>
+   Please refrain from producing content that may infringe upon the rights or cause harm to individuals or organizations.<br>
+请勿制作可能对他人造成侵害的内容。<br>
+他人を不快にさせる可能性のあるコンテンツを作成しないでください。<br>
+
+This is an Apache 2.0 license, which can only be used for non-commercial purposes.<br>
+这是一个Apache 2.0许可证，仅可用于非商业用途。<br>
+これは、非営利目的のみを対象とした Apache 2.0 ライセンスです。<br>
+</h3>
 ---
 license: apache-2.0
 language:
@@ -36,8 +45,7 @@ Text-to-Speech Artificial Intelligence Model (VITS)　<br>
 ![20201014022517373-494724312.jpg](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/nzubxVVDhK26a3Y3WrhlM.jpeg)
 
 23 vits-models,<br>
-Please refrain from producing content that may infringe upon the rights or cause harm to individuals or organizations.<br>
-请勿制作可能对他人造成侵害的内容。<br>
+
 <pre>
 speaker_id
 0环彩羽 (Tamaki Iroha)
