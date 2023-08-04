@@ -1,5 +1,7 @@
 # madomagi-magiarecord-magireco-vits-tts-model
-魔法纪录 魔法少女小圆外传　Magia Record 　魔法少女まどかマギカ　マギアレコード 文章转语音人工智能模型（VITS）
+魔法纪录 魔法少女小圆外传　
+Magia Record 　
+魔法少女まどかマギカ　マギアレコード 文章转语音人工智能模型（VITS）
 ---
 license: apache-2.0
 language:
@@ -8,12 +10,19 @@ pipeline_tag: text-to-speech
 ---
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/model.pth">Download model.pth(hugging face)</a></h3>
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/config.json">Download config.json(hugging face)</a></h3>
-   环彩羽 (Tamaki Iroha) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
+<br>
+<a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/%E7%8E%AF%E5%BD%A9%E7%BE%BDsamplevoice.wav">
+Sample voice DL link 环彩羽 (Tamaki Iroha) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
+
+</a>
+   
     <audio controls>
-        <source src="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/%E7%8E%AF%E5%BD%A9%E7%BE%BDsamplevoice.wav" type="audio/wav">
+        <source src="" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
-魔法纪录 魔法少女小圆外传　Magia Record 　魔法少女まどかマギカ　マギアレコード<br>
+魔法纪录 魔法少女小圆外传<br>
+Magia Record 　<br>
+魔法少女まどかマギカ　マギアレコード<br>
 文章转语音人工智能模型（VITS）能够将文本转换为声音进行朗读。<br>
 Text-to-Speech Artificial Intelligence Model (VITS)　<br>
 記事音声合成人工知能モデル (VITS) は、テキストを音声に変換して読み上げることができます。<br>
