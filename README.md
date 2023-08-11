@@ -1,6 +1,6 @@
 <h2>日本语23 Character text to speech model</h2>
 # madomagi-magiarecord-magireco-vits-tts-model<br>
-魔法纪录 魔法少女小圆外传　语音合成<br>
+魔法纪录 魔法少女小圆外传　语音合成🔊<br>
 Magia Record 　text to speech<br>
 魔法少女まどかマギカ　マギアレコード マギレコ tts 音声合成 文章转语音人工智能模型（VITS）<br>
 <h4>
@@ -22,7 +22,7 @@ pipeline_tag: text-to-speech
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/config.json">Download config.json(hugging face)</a></h3>
 <br>
 <h3>
-   Sample Voice
+   Sample Voice 🔊
 </h3>
 ・<a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/%E7%8E%AF%E5%BD%A9%E7%BE%BDsamplevoice.wav">
 Sample voice DL link 环彩羽 (Tamaki Iroha) Sample Voice text(まさに、夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。)
