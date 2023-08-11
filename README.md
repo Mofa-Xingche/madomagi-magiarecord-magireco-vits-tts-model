@@ -1,6 +1,6 @@
 <h2>日本语23 Character text to speech model</h2>
 # madomagi-magiarecord-magireco-vits-tts-model<br>
-魔法纪录 魔法少女小圆外传　语音合成🔊<br>
+魔法纪录 魔法少女小圆外传　语音合成⚡<br>
 Magia Record 　text to speech<br>
 魔法少女まどかマギカ　マギアレコード マギレコ tts 音声合成 文章转语音人工智能模型（VITS）<br>
 <h4>
