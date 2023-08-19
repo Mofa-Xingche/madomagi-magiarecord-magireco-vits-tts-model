@@ -20,6 +20,12 @@ pipeline_tag: text-to-speech
 
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/model.pth">Download model.pth(hugging face)</a></h3>
 <h3><a href="https://huggingface.co/Mofa-Xingche/madomagi-magiarecord-magireco-vits-tts-model/resolve/main/config.json">Download config.json(hugging face)</a></h3>
+
+
+<h3><a href="https://huggingface.co/spaces/skytnt/moe-tts">Try text to speech Now!(hugging face spaces demo model tab "model 17")</a></h3>
+
+
+
 <br>
 <h3>
    Sample Voice 🔊
