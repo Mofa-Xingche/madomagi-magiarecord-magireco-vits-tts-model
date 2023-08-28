@@ -4,8 +4,9 @@
 ・Magia Record 　text to speech  .madomagi-magiarecord-magireco-vits-tts-model<br>
 ・魔法少女まどかマギカ　マギアレコード マギレコ tts 音声合成 文章转语音人工智能模型（VITS）<br>
 <h4>
-・ Please refrain from producing content that may infringe upon the rights or cause harm to individuals or organizations.<br>
+
 ・请勿制作可能对他人造成侵害的内容。<br>
+・ Please refrain from producing content that may infringe upon the rights or cause harm to individuals or organizations.<br>
 ・他人を不快にさせる可能性のあるコンテンツを作成しないでください。<br>
 
 </h4>
