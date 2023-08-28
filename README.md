@@ -71,26 +71,27 @@ Text-to-Speech Artificial Intelligence Model (VITS)　<br>
 
 <pre>
 speaker_id
-0环彩羽 (Tamaki Iroha)
-1环忧
-2七海八千代
-3十咎桃子
-4水波玲奈
-5秋野枫
-6八云御魂
-7由比鹤乃
-8深月菲莉希亚
-9二叶莎奈
-10梓美冬
-11佐仓杏子
-12天音月咲
-13天音月夜
-14里见灯花
-15柊音梦
-16和泉十七夜
-17阿莉娜·格雷
-18蓝家姬奈
-19大庭树里
-20宫尾时雨
-21丘比
-22巴麻美</pre>
+0. 环彩羽(Tamaki Iroha)
+1. 环忧(Tamaki Ui)
+2. 七海八千代(Nanami Yachiyo)
+3. 十咎桃子(Togame Momoko)
+4. 水波玲奈(Minami Rena)
+5. 秋野枫(Akino Kaede)
+6. 八云御魂(Yakumo Mitama)
+7. 由比鹤乃(Yui Tsuruno)
+8. 深月菲莉希亚(Mitsuki Felicia)
+9. 二叶莎奈(Futaba Sana)
+10. 梓美冬(Azusa Mifuyu)
+11. 佐仓杏子(Sakura Kyōko)
+12. 天音月咲(Amane Tsukasa)
+13. 天音月夜(Amane Tsukuyo)
+14. 里见灯花(Satomi Tōka)
+15. 柊音梦(Hiiragi Nemu)
+16. 和泉十七夜(Izumi Kanagi)
+17. 阿莉娜·格雷(Alina Gray)
+18. 蓝家姬奈(Aika Himena)
+19. 大庭树里(Ōba: Juri)
+20. 宫尾时雨
+21. 丘比(QB)
+22. 巴麻美(Tomoe Mami)
+</pre>
