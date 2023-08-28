@@ -1,5 +1,6 @@
 <h2>日本语23 Character text to speech model</h2>
-![20201014022517373-494724312.jpg](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/nzubxVVDhK26a3Y3WrhlM.jpeg)
+<img src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/nzubxVVDhK26a3Y3WrhlM.jpeg">
+
 <br>
 ・魔法纪录 魔法少女小圆外传　语音合成⚡<br>
 ・Magia Record 　text to speech  .madomagi-magiarecord-magireco-vits-tts-model<br>
